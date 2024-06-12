@@ -1,0 +1,4 @@
+typing-extensions==4.5
+openai==1.8
+dspy-ai
+nltk
