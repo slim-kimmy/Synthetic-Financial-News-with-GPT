@@ -1,4 +1,7 @@
-typing-extensions==4.5
-openai==1.8
+bertopic
 dspy-ai
 nltk
+openai
+pandas
+scikit-learn
+typing-extensions
